@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ritesh2006M
+- 👀 I’m interested in learning new technologies 
