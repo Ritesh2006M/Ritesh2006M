@@ -12,16 +12,6 @@
 ## 🌟 Projects  
 - 🛠️ **MERN Stack Projects:** Built **3+ full-stack applications** showcasing front-end, back-end, and database expertise.  
 
-## 👀 Interests  
-- Exploring **AI & Deep Learning**  
-- Contributing to **Open Source**
-- Building innovative solutions in **Web Development**
-- Enhancing skills through **Competitive Programming**  
-
-## 📈 Goals  
-- Build scalable and user-friendly applications  
-- Dive deeper into **AI & Web Development**  
-- Solve complex algorithmic challenges 
 
 ## 📫 Connect with Me  
 - **GitHub:** [Ritesh2006M](https://github.com/Ritesh2006M)  
