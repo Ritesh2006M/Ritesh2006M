@@ -25,6 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>   
 </div>
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006M&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🌟 Projects  
 - 🛠️ **MERN Stack Projects:** Built **3+ full-stack applications** showcasing front-end, back-end, and database expertise.  
@@ -34,3 +37,4 @@
 - **GitHub:** [Ritesh2006M](https://github.com/Ritesh2006M)  
 - **LeetCode:** [rits1205](https://leetcode.com/u/rits1205/)  
 - **Email:** [riteshcode12@gmail.com](mailto:riteshcode12@gmail.com)  
+
