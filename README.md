@@ -6,7 +6,8 @@
 ## 💻 Skills  
 
 - **Programming:** Python | Java | C  
-- **Web Development:** HTML | CSS | MERN Stack (MongoDB, Express, React, Node.js)  
+- **Web Development:** HTML | CSS | MERN Stack 
+- **Frameworks:** Flask | Socket.io
 - **Databases:** SQL  
 - **AI/ML:** Deep Learning 
 
@@ -22,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>   
 </div>
 
@@ -34,7 +37,7 @@
 
 
 ## 📫 Connect with Me  
-- **GitHub:** [Ritesh2006M](https://github.com/Ritesh2006M)  
+- **LinkedIn:** [riteshreddyg](https://www.linkedin.com/in/riteshreddyg/)
 - **LeetCode:** [rits1205](https://leetcode.com/u/rits1205/)  
 - **Email:** [riteshcode12@gmail.com](mailto:riteshcode12@gmail.com)  
 
