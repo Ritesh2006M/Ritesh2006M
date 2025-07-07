@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Ritesh**  
 
 ## 🚀 About Me  
-🎓 **2nd Year B.Tech (CSE)** student passionate about coding, building impactful projects, and solving real-world problems with technology.  
+🎓 **3nd Year B.Tech (CSE)** student passionate about coding, building impactful projects, and solving real-world problems with technology.  
 
 ## 💻 Skills  
 
