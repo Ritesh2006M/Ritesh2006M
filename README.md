@@ -22,9 +22,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh2006M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 📫 Connect with Me  
 - **LinkedIn:** [riteshreddyg](https://www.linkedin.com/in/riteshreddyg/)  
 - **Email:** [riteshcode12@gmail.com](mailto:riteshcode12@gmail.com)  
