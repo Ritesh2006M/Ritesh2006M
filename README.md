@@ -6,19 +6,16 @@
 ## 💻 Skills  
 
 - **Programming:** Java | C++ | Python | C 
-- **Web Development:** JavaScript | TypeScript | HTML | CSS | MERN Stack (MongoDB, Express.js, React, Node.js) | Next.js | Tailwind CSS | Vercel  
-- **App Development:** Kotlin | React Native  
-- **Frameworks & Libraries:** Flask | Socket.io  
-- **Databases:** SQL | MongoDB | SQLite | MySQL  
-- **AI/ML:**  
-  - **Deep Learning:** TensorFlow | PyTorch  
-  - **Machine Learning:** NumPy | Pandas | Scikit-Learn | Matplotlib  
-- **Cloud & DevOps:** Google Cloud Platform | Docker | Cloud Run | Cloud Functions  
-- **Development Tools:** JetBrains IDEs | Android Studio | Postman | Git | GitHub  
+- **Web Development:** HTML | CSS | JavaScript | TypeScript | MERN Stack (MongoDB, Express.js, React, Node.js) | Next.js | FastAPI | Tailwind CSS
+- **App Development:** Kotlin | Android Studio | React Native  
+- **Databases:** MySQL | MongoDB | SQLite 
+- **Machine Learning & Deep Learning:** NumPy | Pandas | Scikit-Learn | TensorFlow | Keras | PyTorch
+- **Cloud & DevOps:** AWS | Google Cloud Platform | Docker
+- **Development Tools:** Git | GitHub | JetBrains IDEs | Postman | Google Colab
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,react,nodejs,express,mongodb,next,tailwind,vercel,kotlin,flask,sqlite,mysql,tensorflow,pytorch,sklearn,gcp,docker,git,github,postman,androidstudio,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,react,nodejs,express,mongodb,next,tailwind,vercel,kotlin,androidstudio,mysql,sqlite,tensorflow,pytorch,sklearn,aws,gcp,docker,git,github,postman,linux,windows" />
   </a>
 </p>
 
