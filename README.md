@@ -19,14 +19,6 @@
   </a>
 </p>
 
-<br>
-
-<p align="center">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=riteshreddyg&theme=light&border=border&animated=false" alt="LeetCode Badges" />
-</p>
-
-
-
 ## 📫 Connect with Me  
 - **LinkedIn:** [riteshreddyg](https://www.linkedin.com/in/riteshreddyg/)  
 - **Email:** [riteshcode12@gmail.com](mailto:riteshcode12@gmail.com)  
