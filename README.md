@@ -1,21 +1,22 @@
 # 👋 Hi, I'm **Ritesh**  
 
 ## 🚀 About Me  
-🎓 **3rd Year B.Tech (CSE)** student passionate about coding, building impactful projects, and solving real-world problems with technology.  
+🎓 **4th-year B.Tech CSE** student with a keen interest in **AI**, **technology**, and **innovation**. I enjoy solving problems, exploring new domains, and continuously **expanding my knowledge** through hands-on learning.
 
 ## 💻 Skills  
 
-- **Programming:** Java | C++ | Python | C 
-- **Web Development:** HTML | CSS | JavaScript | TypeScript | MERN Stack (MongoDB, Express.js, React, Node.js) | Next.js | FastAPI | Tailwind CSS
-- **App Development:** Kotlin | Android Studio | React Native  
-- **Databases:** MySQL | MongoDB | SQLite 
-- **Machine Learning & Deep Learning:** NumPy | Pandas | Scikit-Learn | TensorFlow | Keras | PyTorch
-- **Cloud & DevOps:** AWS | Google Cloud Platform | Docker
-- **Development Tools:** Git | GitHub | JetBrains IDEs | Postman | Google Colab
+- **Programming:** Java | C++ | Python | C | JavaScript | TypeScript
+- **Backend & Web Development:** FastAPI | Next.js | MERN Stack | REST APIs | Microservices | HTML | CSS | Tailwind CSS
+- **Distributed Systems:** RabbitMQ | Redis | Concurrent Programming | Task Queues | Distributed Systems
+- **AI/ML & LLM Engineering:** PyTorch | TensorFlow | Keras | Hugging Face | LangChain | LangGraph | Retrieval-Augmented Generation (RAG)
+- **Mobile Development:** Kotlin | Android Studio | JNI
+- **Databases:** MySQL | MongoDB | Redis | SQLite
+- **Cloud & DevOps:** AWS | Docker | Linux | Jenkins
+- **Development Tools:** Git | GitHub | Postman | Apache Maven | Google Colab
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,react,nodejs,express,mongodb,next,tailwind,vercel,kotlin,androidstudio,mysql,sqlite,tensorflow,pytorch,sklearn,aws,gcp,docker,git,github,postman,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css,flask,fastapi,react,nodejs,express,mongodb,nginx,next,tailwind,redis,rabbitmq,vercel,kotlin,androidstudio,mysql,sqlite,tensorflow,pytorch,sklearn,aws,gcp,docker,git,github,postman,jenkins,linux,windows,figma" />
   </a>
 </p>
 
